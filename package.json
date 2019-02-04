@@ -1,0 +1,12 @@
+{
+  "name": "matilda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lebrancconvas <lebrancconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
